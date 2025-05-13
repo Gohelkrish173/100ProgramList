@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class digitSumation {
+public class DigitSumation {
   
   public static int digitsum_Itterative(int n){
     int out = 0;
