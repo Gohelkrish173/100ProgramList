@@ -45,6 +45,9 @@ public class P1{
         System.out.print("merged["+index+"] = "+merged[index]+",\n");
         index = index+1;
         j = j+1;
+        // if(a[i] == b[j]){
+        //   i++;
+        // }
       }
       else{
         merged[index] = a[i];
@@ -55,13 +58,25 @@ public class P1{
     }
 
     if(i==aL){
-      merged[index] = b[j];
-      System.out.print("merged["+index+"] = "+merged[index]+",\n");
+      if(j<=bL-1){
+        for(j = j;j<bL;j++){
+          merged[index] = b[j];
+          System.out.print("merged["+index+"] = "+merged[index]+",\n");
+          index++;
+        }
+      }
+      // merged[index] = b[j];
     }
 
     if(j==bL){
-      merged[index] = a[i];
-      System.out.print("merged["+index+"] = "+merged[index]+",\n");
+      if(i<=aL-1){
+        for(i = i;i<aL;i++){
+          merged[index] = a[i];
+          System.out.print("merged["+index+"] = "+merged[index]+",\n");
+          index++;
+        }
+      }
+      // merged[index] = a[i];
     }
 
     return merged;
