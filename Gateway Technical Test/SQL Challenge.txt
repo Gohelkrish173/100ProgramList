@@ -1,0 +1,8 @@
+get the report wise Max Member and Avg Age from table where exclude the null value in report and Avg age in int.
+
+Query MySQL :-
+
+Select ReportTo , Count(ID) as Members, Ceil(Avg(Age)) as 'Average Age' from TableName
+where ReportTo <> 'null'
+group by ReportTo
+order by ReportTo

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+
+<body>
+  <div id="mainDiv">
+    <p>Button Counter : <span>0</span> </p>
+    <button id="mainBtn">Increase</button>
+  </div>
+
+  <script>
+
+    var x = 0;
+
+    $("#mainBtn").click(function(){
+      x = x+1;
+      $("#mainBtn").css({"color" : "red"});
+      $("span").text(x);
+    });
+  </script>
+</body>
+
+</html>
