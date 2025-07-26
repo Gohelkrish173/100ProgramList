@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-07-25 10:20:00",
+    "username": "bob",
+    "ip": "10.0.0.1",
+    "failed_attempts": 11,
+    "alert": "Brute-force detected",
+    "severity": "LOW"
+  },
+  {
+    "timestamp": "2025-07-25 10:00:00",
+    "username": "alice",
+    "ip": "192.168.1.1",
+    "failed_attempts": 11,
+    "alert": "Brute-force detected",
+    "severity": "HIGH"
+  }
+]
