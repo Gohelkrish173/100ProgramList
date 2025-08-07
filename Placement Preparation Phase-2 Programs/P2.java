@@ -1,36 +1,40 @@
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
-public class P2 {
-    public static void main(String[] args){
-        List<Integer> L = new ArrayList<>(List.of(25,6,69,30));
+public class P2{
+    public static void main(String[] args) {
+        int x = 17;
 
+        if(checkUgly(x)) System.out.print("Given Number is Ugly");
+        else System.out.print("Given Number is Not Ugly");
     }
 
-    public static boolean checkUgly(List<Integer> x){
+    public static boolean checkUgly(int x){
+        
+        if(x != 2 && x != 3 && x != 1 && x != 5 && checkPrime(x)){
+            return false;
+        }
 
-        for(int i = 0;i<x.size();i++){
-            List<Integer> F = factors(x.get(i));
+        if(x == 2 || x == 1 || x == 3 || x == 5){
+            return true;
+        }
 
-            for(int j = 0;j<F.size();j++){
-                if () {
-                    
+        for(int i = 2;i<x;i++){
+            if(x%i == 0){
+                if(i != 2 && i != 3 && i != 5){
+                    return false;
                 }
             }
         }
 
+        return true;
     }
 
-    public static List<Integer> factors(int x){
-        
-        List<Integer> F = new ArrayList<>();
-
-        for(int i = 2;i<x;i++){
+    public static boolean checkPrime(int x){
+        for(int i=2;i<=Math.sqrt(x);i++){
             if(x%i == 0){
-                F.add(i);
+                return false;
             }
         }
-
-        return F;
+        return true;
     }
 }
