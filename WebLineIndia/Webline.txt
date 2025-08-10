@@ -1,0 +1,73 @@
+1. Tell me about yourself, your educational background, and your professional experience relevant to this role.
+2. What is the core concept of Encapsulation in object-oriented programming, and why is it important for writing robust and maintainable code?
+3. Can you explain the concept of Inheritance and how it promotes code reusability in object-oriented programming?
+4. Explain Polymorphism with a real-time example.
+5. What is Abstraction in OOP?
+6. Explain the SOLID principles.
+7. What is a class and what is the difference between a class and an object?
+8. What is the significance of 'ES6+' syntax in modern JavaScript development?
+9. How does event handling work in JavaScript, and why is it important for creating interactive web pages?
+10. Explain the concept of Asynchronous JavaScript, including callbacks, Promises, and async/await. How do these mechanisms help in handling long-running operations without blocking the main thread?
+11. What is the purpose of SQL queries, and can you provide a basic example of one?
+12. What is data modeling in the context of SQL databases, and why is it important?
+13. Can you explain the purpose of JOINs in SQL and provide a basic example?
+14. What is a subquery in SQL, and in what scenarios would you use one?
+15. What is Semantic HTML5, and why is it important for web development?
+16. Could you briefly describe some of the key features introduced in CSS3?
+17. What does "cross-browser compatibility" mean in web development, and what are some common techniques to achieve it?
+18. What is an array?
+19. What is a linked list?
+20. What is a stack?
+21. What are REST APIs?
+22. What are JSON and XML, and when might you choose one over the other?
+23. What is Microservices architecture and what are its benefits?
+24. What do you think is important for logical reasoning?
+25. What is version control and why is it important?
+26. Can you describe the basic Git workflow, including the commands for staging, committing, and pushing changes?
+27. What is branching in Git, and why is it useful?
+28. What is a general-purpose AI assistant?
+29. Can you name a few popular general-purpose AI assistants?
+30. What are the benefits of using AI assistants?
+31. Could you provide an example of a situation where employing inheritance would significantly reduce the complexity of your code?
+32. Explain how exception handling contributes to the robustness of an object-oriented program.
+33. In JavaScript, how would you use Web APIs like the Fetch API to retrieve data from a remote server, and what error handling strategies would you employ?
+34. How do you ensure that your SQL queries are optimized for performance, especially when dealing with large datasets?
+35. How do you approach designing a responsive web page using HTML/CSS, ensuring it adapts well to different screen sizes and devices?
+36. Describe a scenario where you might choose a stack over a queue in a practical application.
+37. In the context of web services, how do you handle authentication and authorization to secure your APIs?
+38. Give me an example scenario in which logical reasoning can enhance the software development process.
+39. How do you handle merge conflicts in Git, and what strategies do you use to resolve them effectively?
+40. What are the ethical considerations surrounding the use of AI assistants?
+41. How does understanding design patterns contribute to creating maintainable and scalable software?
+42. What are some strategies for testing and debugging JavaScript code, particularly in the context of asynchronous operations?
+43. How do stored procedures enhance database performance and security, and what are the trade-offs involved in using them?
+44. What are the key considerations for ensuring web accessibility in HTML/CSS, and how do these considerations impact user experience?
+45. How can recursion be useful in algorithms and data structures, and what are the potential drawbacks of using recursion?
+46. How can API testing tools like Postman or Swagger be used to validate and debug web services?
+47. How do you approach problem-solving when faced with a complex technical challenge?
+48. How do you approach branching strategies in Git to manage different features or releases, and what are the benefits and drawbacks of different strategies?
+49. How can AI assistants be integrated into software development workflows to improve efficiency and productivity?
+50. What are the key considerations for memory management in object-oriented programming, and how can poor memory management lead to performance issues or crashes?
+51. How do you approach learning new JavaScript frameworks or libraries, and what strategies do you use to become proficient with them quickly?
+52. How can SQL tuning techniques, such as query optimization and indexing, improve the performance of database applications, and what are the potential drawbacks of these techniques?
+53. How do you approach optimizing web fonts for performance in HTML/CSS, and what are the trade-offs involved in using different font formats and loading strategies?
+54. What are some advanced data structure concepts, such as trees, graphs, and hash tables, and how can they be used to solve complex problems?
+55. What are the key architectural patterns for designing microservices, such as API gateways, service discovery, and message queues, and how do these patterns contribute to the overall scalability and resilience of a microservices-based application?
+56. Can you describe how a software project can benefit from using logical reasoning?
+57. How do you approach resolving complex merge conflicts in Git, especially when dealing with large files or conflicting changes across multiple branches?
+58. What are some potential risks and challenges associated with using AI assistants in software development, and how can these risks be mitigated?
+59. How can design patterns be applied to address common challenges in distributed systems, such as service discovery, fault tolerance, and data consistency?
+60. Describe advanced techniques for optimizing JavaScript performance, such as code splitting, tree shaking, and lazy loading, and how these techniques can improve the user experience of web applications.
+61. What are the advanced SQL techniques for optimizing query performance, such as using window functions, common table expressions (CTEs), and materialized views, and how can these techniques improve the efficiency of complex data analysis?
+62. What are the advanced HTML/CSS techniques for creating complex and interactive web layouts, such as using CSS Grid Layout, CSS Custom Properties (variables), and CSS Houdini, and how can these techniques improve the maintainability and scalability of web applications?
+63. What are the advanced data structure and algorithm techniques for solving complex problems, such as dynamic programming, graph algorithms, and network flow algorithms, and how can these techniques be applied to real-world scenarios?
+64. What are the advanced architectural patterns for designing distributed web services, such as event-driven architecture, CQRS (Command Query Responsibility Segregation), and micro frontends, and how do these patterns contribute to the overall scalability, resilience, and maintainability of a distributed web application?
+65. What methods or strategies would you recommend to new software developers so that they can develop strong logical reasoning skills?
+66. How do you approach automating Git workflows using tools like Git hooks and CI/CD pipelines, and what are the benefits and drawbacks of automating these workflows?
+67. What are the ethical considerations surrounding the development and deployment of AI assistants in high-stakes applications, such as healthcare, finance, and law, and how can these considerations be addressed to ensure that AI assistants are used responsibly and ethically?
+68. What are some common uses for JavaScript in web development?
+69. What is the purpose of a README file in a Git repository?
+70. What is an API key, and why is it used?
+71. In which data structure, data element can be inserted or deleted only from one end?
+72. Can a program execute without the main() method?
+73. Is there anything you'd like to add about how the interview went or any insights you gained from our conversation?
