@@ -1,5 +1,7 @@
 import java.util.*;
 
+// Find Ugly Number
+
 public class P2{
     public static void main(String[] args) {
         int x = 17;
