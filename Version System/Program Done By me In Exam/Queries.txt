@@ -1,0 +1,54 @@
+1.
+Update Employee
+set
+City = "Pune"
+[Emp Id] = 101
+
+2.
+Delete from Employee as e
+inner join Department as d on d.[Dept ID] = e.[Dept ID]
+where d.[Dept Name] = 'HR' and e.Salary > 45000
+
+3.
+select * from Employee as e
+Group By (e.*)
+Having count(e.Name) > 1
+
+4.
+select * from Employee as e
+where LEN(e.Name) = 5
+
+5.
+Select * from Employee as e
+inner join Department as d on d.[Dept ID] = e.[Dept ID]
+where e.Salary = (
+	Select Max(Salary) from Employee as e
+	inner join Department as d on d.[Dept ID] = e.[Dept ID]
+	Group By d.[Dept Name]
+)
+
+6.
+Update Employee as e
+set
+e.[Dept ID] = (
+	select [Dept ID] from Department
+	where [Dept Name] = 'Finance'
+)
+where e.[Emp ID] = 102
+
+7.
+Delete From Employee as e
+where e.Salary < 25000
+
+8.
+Select Name from Employee
+Group by Name
+Having count(Name) > 1
+
+9.
+Select * from Employee as e
+where e.City like 'M%'
+
+10.
+select e.(*),d.[Dept Name] from Employee as e
+inner join Department as d on d.[Dept ID] = e.[Dept ID]
