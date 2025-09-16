@@ -1,0 +1,47 @@
+InterView-I Questions :-
+
+1) Explain about your project and techonologies?
+2) What is Temporary Table in SQL?
+3) You Done Your Project With EF or ADO.Net?
+4) Difference Between .Net Framework and .Net Core?
+5) What is Transaction in SQL? and How to use of it?
+6) in one SP, we want to retrieve 4 table and one table can take 5 seconds to retrieve the data then total time 20 seconds for one SP. then how to optimize retrieve timing and how to access this tables in the Application.
+7) in one SP, we insert record in three records. if one is inserted and such kind of issue generate in server then how to handle your database entries.
+8) which temporary Table you use with '#' or '@'?
+9) Do you know Html,CSS,Bootstrap? then how to design the given form? and give it's tag and classes?
+10) we have API's for form insertion at that time we don't want to use DataAnnotation and we want a Client Side Validation can we do it with jquery? how to do it explain?
+11) how to call form submit url in form?
+12) where you write jquery in asp.Net Core MVC?
+13) Trace your program which is done in exam and explain me step by step?
+14) Write the logic of given Pattern in C#:
+    *
+  * * *
+* * * * *
+  * * *
+    *
+15) What is Polymorphism and explain the use of it.
+16) Difference Between Abstraction and Interface. and Which is used most and why?
+
+IterView-II Question :
+
+1) Tell me about your Family Background?
+2) Explain your Project.
+3) Trace your program which is done in exam and explain me step by step?
+4) Write the logic of given Pattern in Any Language:
+(i)
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+(ii)
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+(iii)
+1
+2 3
+4 5 6
+7 8 9 10

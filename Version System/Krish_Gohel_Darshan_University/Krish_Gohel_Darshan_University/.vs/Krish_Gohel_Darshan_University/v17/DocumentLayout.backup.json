@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VersionSystem\\Krish_Gohel_Darshan_University\\",
+  "WorkspaceRootPath": "D:\\100 programs\\Version System\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEA8F9D2-4BBA-49C3-88A1-F3C8FB3DCE6A}|Krish_Gohel_Darshan_University.csproj|d:\\versionsystem\\krish_gohel_darshan_university\\controllers\\tblsalarymstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEA8F9D2-4BBA-49C3-88A1-F3C8FB3DCE6A}|Krish_Gohel_Darshan_University.csproj|d:\\100 programs\\version system\\krish_gohel_darshan_university\\krish_gohel_darshan_university\\controllers\\tblsalarymstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEA8F9D2-4BBA-49C3-88A1-F3C8FB3DCE6A}|Krish_Gohel_Darshan_University.csproj|solutionrelative:controllers\\tblsalarymstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TBLSALARYMSTController.cs",
-              "DocumentMoniker": "D:\\VersionSystem\\Krish_Gohel_Darshan_University\\Controllers\\TBLSALARYMSTController.cs",
+              "DocumentMoniker": "D:\\100 programs\\Version System\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University\\Controllers\\TBLSALARYMSTController.cs",
               "RelativeDocumentMoniker": "Controllers\\TBLSALARYMSTController.cs",
-              "ToolTip": "D:\\VersionSystem\\Krish_Gohel_Darshan_University\\Controllers\\TBLSALARYMSTController.cs",
+              "ToolTip": "D:\\100 programs\\Version System\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University\\Controllers\\TBLSALARYMSTController.cs",
               "RelativeToolTip": "Controllers\\TBLSALARYMSTController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T12:39:12.4Z",
               "EditorCaption": ""

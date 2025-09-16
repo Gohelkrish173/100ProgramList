@@ -1,0 +1,9 @@
+Good morning/afternoon. My name is Krish Gohel, and I am from Rajkot. I have completed my 12th Science from Shakti Gujarati Medium School, and I am currently pursuing my Bachelor’s degree in Computer Science and Engineering from Darshan University.
+
+During my academics, I have developed Intermediate skills in Java, Python, ASP.NET, React.js, Node.js, and Flutter. I have also worked on two projects – a Tailor Management System using ASP.NET Core Web API with Flutter, and a Movie Ticket Booking System using the MERN Stack.
+
+In my 5th semester, I contributed as a Lab Assistant for Web Technologies, and currently I am assisting in ASP.NET Core MVC for juniors, which has helped me improve my learning skills as well as leadership skills.
+
+Apart of my free time, I enjoy exploring new technologies, playing cricket, listening to music, and traveling.
+
+I’m looking for a good opportunity to grow in a reputed company where I can learn more and build my career.

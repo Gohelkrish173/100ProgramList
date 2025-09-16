@@ -1,0 +1,17 @@
+I built a movie ticket booking website using the MERN stack. Users can register, log in securely using JWT and bcrypt, search for movies, check show timings, and book tickets. Admins can add or manage movies, schedules, and also view the list of tickets sold. The frontend is built with React and is fully responsive, while the backend uses Express and MongoDB to handle all user and booking data. at the end I was focused on making the system secure, user-friendly, and scalable.
+
+Q1. How did you implement JWT in your project?
+
+I used JWT for secure authentication and authoraization.When a user logs in, the server verifies the credentials and generates a token with ID and their role. then This token is sent to the frontend and set in Cookie. then On each request, I check the token from the cookie to see if the user or admin is logged in and whether they are a user or admin. Based on that, I allow or block access to routes.
+
+Q2. What challenges did you face?
+
+Some of the main challenges I faced were: creating a proper database structure for users, movies, and bookings; managing seats to prevent double booking; and handling role management to separate user and admin access. but I handled them using MongoDB, JWT, and proper backend logic.
+
+Q3. How does booking logic work?
+
+When a user selects a movie, showtime, and seats, the frontend sends this data to the backend. The backend checks if the selected seats are still available in the database. If they are, it books them by updating the seat status and saves the booking details with user ID and Screen ID. This helps avoid double booking.
+
+Q4. How did you create a logic for seat arrangement for selection of seat?
+
+For seat selection, I created a list of lists in the screen document to represent the rows and columns of seats. Each seat has a status like available or booked. When the user selects seats, I send their row and column index to the backend. The backend checks the seat status and updates them to booked if they are available.

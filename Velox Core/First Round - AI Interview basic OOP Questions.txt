@@ -1,0 +1,23 @@
+Velox Care Intervice Question First Round
+
+1) Introduction About Your Self?
+2) What is Polymorphism?
+3) How to use Polymorphism & when to use Polymorphism.
+4) What is method overloading & method overriding?
+5) What is public, private a protected?
+6) Which Situation you can use private, Protected and public?
+7) What is Abstraction?
+8) where to use it & how to use it?
+9) what is Interface & How to use of it.
+10) Difference between interface & abstraction?
+11) When to use Abstraction & Interface.
+12) What is is Encaptulation How to use it?
+13) how can it Hide the data?
+14) ensure that encaptulation can wrapped the data or Hiding explain perfectly with example.
+15) give the proper Example of Encaptulation?
+16) Explain methodology of Stack & Quene.
+17) give the difference betweem the stark & queue?
+18) give the real world Example of stack and queue?
+19) which methodology stack is more useful then Queue
+20) what is Dependency Injuction.
+21) Give the proper Example of Polymorphism Why same method work differently in different objects?

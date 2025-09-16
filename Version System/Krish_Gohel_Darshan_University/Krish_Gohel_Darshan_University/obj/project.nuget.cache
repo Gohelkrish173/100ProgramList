@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C3t9h6icBGc=",
+  "dgSpecHash": "aQa/Cjt3ebc=",
   "success": true,
-  "projectFilePath": "D:\\VersionSystem\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University.csproj",
+  "projectFilePath": "D:\\100 programs\\Version System\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Krish\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Krish\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -41,12 +41,21 @@
   ],
   "logs": [
     {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "D:\\100 programs\\Version System\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\100 programs\\Version System\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University.csproj",
+      "targetGraphs": []
+    },
+    {
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'iTextSharp 5.5.13.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "projectPath": "D:\\VersionSystem\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University.csproj",
+      "projectPath": "D:\\100 programs\\Version System\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\VersionSystem\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University.csproj",
+      "filePath": "D:\\100 programs\\Version System\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University\\Krish_Gohel_Darshan_University.csproj",
       "libraryId": "iTextSharp",
       "targetGraphs": [
         "net8.0"

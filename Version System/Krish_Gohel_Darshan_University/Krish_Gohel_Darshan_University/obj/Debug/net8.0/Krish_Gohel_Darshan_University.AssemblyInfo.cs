@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Krish_Gohel_Darshan_University")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+698ceed28fb6afc66f781fa3aee4e732a59a2db5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Krish_Gohel_Darshan_University")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Krish_Gohel_Darshan_University")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
