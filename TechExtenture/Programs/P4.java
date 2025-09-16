@@ -22,9 +22,18 @@ public class P4 {
       }
     }
 
+    System.out.println("Before 90 Degree Convertion.");
+
+    for(int i = 0;i<N;i++){
+      for(int j = 0;j<M;j++){
+        System.out.print(x[i][j] + " ");
+      }
+      System.out.println("");
+    }
+
     int[][] ans = convert90(N,M,x);
 
-    System.out.println("After 90 Degree Covertion.");
+    System.out.println("After 90 Degree Convertion.");
 
     for(int i = 0;i<M;i++){
       for(int j = 0;j<N;j++){
@@ -32,6 +41,7 @@ public class P4 {
       }
       System.out.println("");
     }
+
   }
 
   public static int[][] convert90(int N,int M,int[][] x){
@@ -40,17 +50,12 @@ public class P4 {
     int xi = 0;
     int yi = 0;
 
-    for(int i = 0;i<N;i++){
-      if(xi<M && yi<N){
-        for(int j = M-1;j>=0;j--){
-          if(yi == N-1){
-            xi++;
-            yi = 0;
-          }
-          y[xi][yi++] = x[j][i];
-          System.out.println(xi+"-"+yi);
-        }
+    for(int i = 0;i<M;i++){
+      for(int j = N-1;j>=0;j--){
+        y[xi][yi++] = x[j][i];
       }
+      xi++;
+      yi=0;
     }
 
     return y;
