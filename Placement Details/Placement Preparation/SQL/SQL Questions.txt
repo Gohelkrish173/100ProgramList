@@ -1,0 +1,39 @@
+1) What is Primary Key,Foreign Key,Unique Key and Composite Key?
+2) What is Constrains in SQL?
+3) What is Normalization?
+4) Explain 1NF,2NF,3NF,4NF,5NF,BCNF with Example.
+5) What is Temp Table in SQL?
+6) What is View In SQL?
+7) What is With Keyword use in Query?
+8) How many Type of JOin in sql and Explain it.
+9) What is Self Join give the example of it.
+10) What is the Group BY ?
+11) what is Aggregaton Function?
+12) Give the Flow of Query Execution?
+13) Can We use Aggregate Function in Where Condition?
+14) difference between Where and Having?
+15) can we write Having Before Where?
+16) What is Window Function? List of It and give the example of it.
+17) What is Store Procedure in Sql and explain the use of it.
+18) what is the function in SQL and Explain the use of it.
+19) how many type of function in SQL.
+20) What is User Define Function in SQL.
+21) Can insert,update or Delete operation in the Function.
+22) What is The Trigger? Give the Example of it.
+23) What is the Cursor? Give the use and Example of it.
+24) What is SQL Injection ? how to prevent it.
+25) What Trasaction in SQL? Explain the use of it. and give example of it.
+26) List the SQL Components and Give Defination of it.
+27) What is Roll Back in SQL? Explain it and provide Example of it.
+28) What is Indexing? provide the type of it.
+29) What is Clustered and Non-Clustered Index.
+30) What is Subquery? and How to Use of it. and give the example of it
+31) Difference Between IN,Exist and Any.
+32) Difference Between Delete,Truncate and Drop.
+33) What is the CTE.
+34) What is the Pivot in SQL. and how to use of it.
+35) DIfference between Union and Union All.
+
+Queries :-
+1) Find The Second Largest Element From the table. With Different method's and different queries.
+2) Find The Salary of that Employee that's Deparment Avg Salary is Less then his Salary.
