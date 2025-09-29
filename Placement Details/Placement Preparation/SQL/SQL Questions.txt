@@ -33,6 +33,8 @@
 33) What is the CTE.
 34) What is the Pivot in SQL. and how to use of it.
 35) DIfference between Union and Union All.
+36) What is ACID Property.
+37) difference Between nvarchar and varchar
 
 Queries :-
 1) Find The Second Largest Element From the table. With Different method's and different queries.
