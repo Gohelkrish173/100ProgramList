@@ -1,0 +1,47 @@
+Second Technical Interview :
+
+1) Introduction
+2) Are You know JWT? What is Authentication and Authorization? give Difference Between it.
+3) Write the Code of JWT implementation in .Net?
+
+4) Write the code for find the first missing positive integer Number From The Given Array.
+-> Example : A = [1,-5,3,7,6] , Output = 2
+-> Example : A = [-8,-5,0,5,6,8,9] , Output = 7
+
+5) Write the code for find the total pair of perenthesis of the code. if such parenthesis are not paired then add '(' or ')' to create the pair and then provide the count of total pair.
+-> Example : A = "(())" , Output = 2
+-> Exmaple : A = "((())" , Output = 3
+-> Exmaple : A = "(()" , Output = 2
+
+6) In Which Type of CRUD operation done in your project?
+7) Write Selection Query Code for get data in Ado.net?
+8) What is the difference Between DataReader and DataSet?
+9) What is Connection-Oriented and Connection-less in .net connected with SQL and which is prefere First ?
+10) Difference between Connection-Oriented and Connection-less?
+11) What is Reference Type and Object Type?
+12) What is Parallel Functing,task,multi Proccessing in C#?
+13) Give the Example of Value type and Reference Type?
+14) give the Output of given code -> Console.log(1 + 5 + "3") in js?
+15) give the Output of Given Code :
+Object s = "99";
+Object p = s;
+p = "88";
+Now, What is the value of P & S?
+16) Data Type in C#?
+17) Data Type in SQL?
+18) Difference Between varchar and nvarchar?
+19) How many type of join in SQL? and list of it.
+
+20) we have Two table Employee and Employee_Salary,
+i want to find the Avarage salary of Each Age
+-> Example:
+Age	Salary
+21	30000
+22	31000
+23	40000
+24	45000
+25	50000
+
+21) Write the function in Js? and call it.
+22) What is Undefined and Null in JavaScript?
+23) Difference Between Null and Undefined?
