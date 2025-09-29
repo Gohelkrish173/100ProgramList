@@ -1,0 +1,13 @@
+As part of my 6th semester project, I built a Tailor Management App using Flutter for mobile and tablets, with a .NET Web API and MS SQL backend.here Shopkeepers can register themselves, manage customer measurements, take orders, and generate invoices. I also added analytics to display revenue, pending orders, and invoice status on the dashboard. Authentication is implemented using JWT for each shopkeeper. The main goal of this application is to help tailors to manage multiple customers easily in one app.
+
+Q1. How did you store measurements?
+
+I created a Measurement table that stores different clothing measurements. It's linked with the Item table to identify the dress type, and also connected to the Customer and Shopkeeper tables. This helps manage Customers multiple items measurement for each shop.
+
+Q2. How are orders and bills managed?
+
+I created an Order and OrderDetail table.where one order can have multiple ordered items stored in the OrderDetail table. The total amount and order info are then sent to the Bill table, where the invoice is generated along with the payment status.
+
+Q3. How is analytics data calculated?
+
+I used stored procedures with temporary tables to filter orders and bills based on their status. In one procedure, I calculated total pending orders and the amount to be collected. This made the analytics faster and easier to manage from the backend.
