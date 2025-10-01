@@ -1,0 +1,35 @@
+1) Give Brief knowledge about your project?
+2) .Net MVC life Cycle?
+3) which type of api use in the Project?
+- ADO.Net or EF
+4) Type of API's?
+5) How to insert 0 and 1 through function in sql?
+6) What is SP? and it's real use.
+7) What is DI?
+8) What is SQL Injection & how to prevent it.
+9) What is Singletone Class in C#?
+10) give a two algorithm which implement bcrypt Password?
+11) What subquery in SQL?
+12) how to find Specific string through one column.
+13) what is userDefine Function and it's type.
+14) what is index? it's use & it's type?
+15) what is key? List of Key?
+16) Can you use Jquery in Project?
+17) Give a five tag name in html?
+18) give a five tag name in body?
+19) calculate and display in view, how many <p> tag are written in body.
+20) how many selectors in HTML, JavaScript and jquery & List of Selectors.
+21) Create a password shown toggle using jqeury or js?
+22) What is Css & it's type & it's priority.
+23) Cookie vs Session in .Net?
+24) How to pass list from Controller to View? How it manipulate through table?
+25) What is Boxing and UnBoxing?
+26) Type Casting in C#?
+27) what is Abstraction in C#?
+28) What is View in SQL?
+29) Type of Action Result & Non Action Result?
+30) What is Action Filter in .Net?
+31) What is JWT and how to implement it in .Net?
+32) What is the use of AppSettings.cs?
+33) let vs var vs const.
+34) what is singleton, scope, transiant in c#.

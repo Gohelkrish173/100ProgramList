@@ -1,0 +1,9 @@
+1) in javascript,
+let a = [1,2,3];
+a[10] = 11;
+console.log(a.length); // [1,2,3,undefine,...,11]
+Ans = 11
+
+2) in js,
+console.log([] ==! []);
+Ans = true

@@ -1,0 +1,55 @@
+1) Given An Array of integers nums Containing n+1 integers where each int is in the range of [1,n], return the repeated number. there is only one repeated number in Array.
+Ex. nums = [1,3,4,2,2],Output : 2
+    nums = [3,1,3,4,2],Output : 3
+
+2) Butterfly Pattern:
+n = 3
+*       *
+* *   * * 
+* * * * *
+* *   * *
+*       *
+
+3) Perfect Number:
+
+A perfect Number is a positive int that is equal to the sum of it's positive divisors, excluding the number itself
+
+Given an int num ,return true if num is perfect , otherwise return false.
+
+Example : Num = 28, Explain :- 1+2+4+7+14 = 28, Output : True
+Example : Num = 7, Explain : 1+7 , Output : False
+
+time Complexity : O(Sqrt(n))
+space Complexity : O(1)
+
+4) Sqrt(x)
+
+Given a non-negative int x , return the square root of x rounded down to the nearest integer. you must not use any built-in exponent function or operator.
+Input x = 4 , Output = 2
+Input x = 8 , Output = 2.828 , rounded down to 2
+
+5) Prime Number
+
+-> Given Number is Prime OR Not.
+input x = 7 , Output = true
+input x = 10 , output = false.
+
+Time Complexity : less Then O(n)
+Space Complexity : O(1)
+
+6) Factorial Trailing Zeros:
+
+Given an int , return the number of trailing zeros in n! Note that n! = n*(n-1)*....*3*2*1 .
+Input n = 3 ,Output = 0
+Input n = 5 , output = 1
+
+7) Next Greater Element:
+Given an Array arr[] of int , task is to find the next greater element for each element of the array in order of their appearance in the array.
+
+Ex.
+arr[] = [1,3,2,4]
+Out = [3,4,4,-1]
+
+Ex.
+arr[] = [6,8,0,1,3]
+out = [8,-1,1,3,-1]

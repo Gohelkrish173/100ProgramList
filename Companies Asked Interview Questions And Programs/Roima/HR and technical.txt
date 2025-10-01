@@ -1,0 +1,14 @@
+HR : 
+
+1) Family Background.
+2) Introduction.
+
+Technical : 
+1) Optimization of Round-1 SQL Problem.
+2) Where you use OOP concepts in your coffee shop management Project.
+3) Create a OOP System which can cover all the concepts of oop.
+-> vehicle class have two types Two and Four wheeler.
+-> now , i want to give vehicle on Rent. I want to give type of two or Four Whelers.
+-> Types wise different Rent percentage.
+-> Now at the last I want to final Rent.
+-> Create this system using OOP Concepts.

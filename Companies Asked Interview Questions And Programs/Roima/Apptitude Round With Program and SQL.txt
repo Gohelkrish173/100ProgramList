@@ -1,0 +1,4 @@
+1) Create a Structure of Table that have customer purchase n product with such price and give it's total amount & it's date one customer can give multiple orders.
+After Creating table structure,write a query for retrieve data of customer name ,number of quantity , total amount , order date when product name is "TT Ball" and order data is '15-07-2025'
+
+2) Find the Largest palindrome Substring from the given String.

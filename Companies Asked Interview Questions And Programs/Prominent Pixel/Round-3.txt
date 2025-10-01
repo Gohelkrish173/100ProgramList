@@ -1,0 +1,73 @@
+1) Introduction
+2) Which Technology would you like to work?
+3) After mongoDb which database you know?
+4) Which Database use in the project and why?
+
+=> SQL
+
+5) What is join & how many type of Join?
+6) What is Group By & what is the use of it?
+7) write a query for employee , whose salary more then 5000.
+
+8) give a Table which have many to many relationship in the table so you have to create a table structure who give whole information easily. main reduce the multiple redundancy.
+Example:
+CollegeName	StudentName	Degree
+Darshan		Krish		B.tech
+Marwadi		Krish		M.tech
+Darshan		Mehul		B.tech
+Marwadi		Mehul		M.tech
+Now how to reduce multiple Redundancy?
+
+9) Write the Query for employee,where you give Department wise Employee count who have salary more than 50000
+10) same above query but only display that department which's employee count more than 10.
+11) when is use having & when is use where in Query
+12) Write a Query for, find second highest salary in employee table.
+13) why you use having in Query?
+14) Where you Write Having and Where you write Where?
+
+=> About Project
+
+15) What is JWT & use of it.
+16) what is Authentication and Authorization.
+17) Diff Between Authentication and Authorization.
+18) what is client-side and server-side?
+19) what is Client-Server Architecture?
+20) Type of Protocol in Browsers?
+21) Diff Between Http and Https?
+22) What is Status Code.
+23) What is occur in status code 503 & 200
+
+=> Write Program
+24) Write a Program for given Defination:
+give a array and Target. find index of that two elements which sum is equal the target.
+Note : if you find more then one then print any one.
+Note : try to find optimize way
+
+=> JS
+25) Diff Html and CSS?
+26) what is use of javascript in webpage?
+27) what is use of spread operator in js?
+28) can we use super in js?
+29) what is the use of "this" keyword in js?
+30) what is strict in the js?
+31) what is callback function in js?
+
+=> React
+32) What is React-Router and It's use?
+33) What is Routing in React?
+34) What is StrictMode in React?
+35) What is State in React?
+36) What is API & why it is use so much in today's world.
+37) What is Middleware? and how it's work.
+
+=> OOP:
+
+38) What is OOP?
+39) 4-Pillar of OOP?
+40) What is Abstraction and why we use of it? explain Briefly.
+41) what is Encapsulation?
+42) What is Inheritance?
+43) what is Interface and use of it?
+44) Do you know Marker Interface?
+45) What is Association and Generalization in java?
+46) What is Exception in java?

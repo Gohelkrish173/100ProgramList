@@ -1,0 +1,13 @@
+1) Tell me about your self.
+2) Tell me about your family.
+3) Tell me about your like & dislike.
+4) Explain about your project briefly.
+5) Which technologies you use in your project & why?
+
+6) Program :
+String a = "hello world how are you?";
+Reverse Print the String with out build-in Function
+
+7) Program :
+String a = "hello world how are you?";
+Now,that char which is first char of word would be duplicate that char return.

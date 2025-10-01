@@ -1,0 +1,40 @@
+1) Introduction
+2) Explain your Project.
+3) Explain how can you select tickets of movies using your project with frontEnd and Backend
+4) How can you implement the logic of booking tickets in the backend.
+5) what is statefulwidget in flutter?
+6) Diff Between StatelessWidget and StateFulWidget?
+7) which database you chose SQL or NoSQL?
+8) What is SQL?
+9) What is Subquery?
+10) Can you emplement OOPs concepts in your movie ticket booking system.
+11) What is Join?
+12) Diff between join & inner join?
+13) Diff Between Primary key and Unique Key?
+14) What is Store Procedure?
+15) What is Cursor & why we use of it?
+16) What is useEffect in React?
+17) how to store value globaly?
+18) what is context API?
+19) Diff between Overloading & Overriding?
+20) RealWorld Example of Overriding?
+21) What is access modifier in C#?
+22) Difference Between Private & Protected.
+23) Difference Between Public & Protected.
+24) What is JWT Token?
+25) Can we use Group by properties in where Condition.
+
+26) Find Second Highest Salary From employee table with optimize way.
+Ans :
+Select distinct salary from employee
+order by salary Desc
+limit 1 offset 1
+
+27) what is Controller in .Net? why we use of it.
+28) why we use Model in .Net?
+29) How you can interect FrontEnd and BackEnd.
+30) What is assembly & Name Space in C#?
+31) How to Execute Query in SQL?
+32) How to Create web API using ASP.Net core? Explain Proccess.
+33) Explain Normal Form in SQL?
+34) What is ref & out in C#?

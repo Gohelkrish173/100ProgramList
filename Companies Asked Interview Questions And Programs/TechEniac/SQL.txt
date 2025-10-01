@@ -1,0 +1,15 @@
+1) We have a table of Employee like given below.
+Employee_name
+month
+salary
+joining date
+
+-> Now, i want only max total_salary of employee with it's name.
+-> Now, if max total salary is earn four people then sort the data with order by it's name in alphabetic order
+
+=> Output :-
+
+Name	Total_Salary
+Bob	50000
+Krish	50000
+Sandip	50000

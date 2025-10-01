@@ -1,0 +1,5 @@
+1) What is the use of Remote Validation In C#?
+2) How can give Anty Forgery Token in C# Rezor Pages?
+3) What is constant and Readonly in C#?
+4) What is lessy coupling & what is tight coupling?
+5) how to give Path using JSX?

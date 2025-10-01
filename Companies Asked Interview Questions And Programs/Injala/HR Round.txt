@@ -1,0 +1,13 @@
+1) Tell me about your self.
+2) Tell me About your family.
+
+3) Found next three char
+A E F H I K L M _ _ _
+- Hint : here ,no mathematical process is used
+explain me a logic how you think about it.
+Ans -> N T V
+
+4) Pillars of OOP & which us useless in it and why?
+-> chatGPT ans is -> Inheritance
+
+5) Difference between Inheritance and Compotition?

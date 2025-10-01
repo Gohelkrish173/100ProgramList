@@ -1,0 +1,19 @@
+1) Introduction
+2) Rating of Programing Language
+
+3) Program of swap two Array
+Input : a = [1,2,3,4,5] , b = [6,7,8,9,10]
+Output : b = [1,2,3,4,5] , a = [6,7,8,9,10]
+
+4) Prime Number Program Optimize way.
+5) Sum of Diagonal & Reverse Diagonal input 2D Array.
+
+6) given a Array and give user Input in Array as Array length 2. find the count the how many time input array repeat in main Array:
+Input : main = [1,3,5,1,3], target = [1,3]
+output : Ans = 2 , here target array repeat two times in the Array
+
+7) What is JWT? What's the use of it.
+8) Ask about Technology and Projects.
+9) Your Tailor Management Project is live or not?
+10) you can use Your Project or Not?
+ 

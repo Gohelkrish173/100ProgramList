@@ -1,0 +1,21 @@
+1) Introduction
+2) Question based on Introduction
+3) tell me about family Background?
+
+4) write a program for, find duplicate char from given string without using collection framework in Notepad++.
+
+5) write a program for Below Defination:
+you give 2D Array & print last column using only one for lop.
+
+6) write a program for below Defination:
+you give 2D Array & Print only reverse Diagonal elements.
+
+7) Write a program for below Defination:
+you give 2D Array & Find the sum of last row and last column
+
+8) What is 'final' keyword & 'Static' keyword in java?
+9) what is the diff between final and static?
+10) in system.out.println() method, what is system,out and Println
+Ans : System => Class ,
+      Out => Static member,
+      println() => method

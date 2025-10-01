@@ -1,0 +1,38 @@
+1) Introduction
+
+2) SQL query
+Delete the user data which Permission_name equal 'Delete'.
+Use	role	user_Role	Role_Permission	Permission
+id	id	user_id		role_id		permission_id
+name	name	role_id		permission_id	name
+
+3) Write a query for given instruction,
+Product		Category
+id		id
+name		name
+categoryID
+
+Now return a single column with productname_CateoryName of all product.
+
+4) What is with keyword in SQL.
+5) What is Temp Keyword in SQL.
+6) What is Window Function in SQL?
+7) What is SP in SQL?
+8) Can we use function insted of SP in SQL for insert , update and delete operation
+
+=> Project
+
+9) which technology which you can prefer?
+10) What is JWT and it's usage.
+11) can you find data from jwt token?
+12) Which Database you latest use in your project?
+13) What is filters in Asp.Net?
+14) What is Middleware in ASP.Net?
+15) Can you create web API in Asp.Net Core
+16) What is DI?
+17) What is Git?
+18) diff between Git and GitHub?
+19) What is Map and Filter in javascript?
+20) What is Session in JWT?
+21) how to pass token in Session?
+22) indexing & sharding in SQL.

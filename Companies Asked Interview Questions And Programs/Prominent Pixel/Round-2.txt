@@ -1,0 +1,16 @@
+1) Introduction
+2) Which Programing Language would you Prefer?
+
+3) Write a Logic for given definition,here provide a Array you can create a combination of given Array.
+Input : a = [1,2,3] Output : [1] , [2] , [3] , [1,2] , [2,1] , [2,3] , [3,2] , [1,3] , [3,1] , [1,2,3]
+
+4) find the duplicate Char from the String?
+Input : str = "Prominent Pixel" ; Output : ans = "Pien"
+
+5) Write A logic for given Defination:
+provide nxn matrix then transfer the matrix in to 90 degree.
+
+6) What is final key word and it's use?
+7) What is Static Key word and it's use?
+8) Diff between Throw and Throws?
+9) What is lambda Func in java?
